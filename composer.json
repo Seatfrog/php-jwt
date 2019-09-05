@@ -22,7 +22,7 @@
             "name": "Maksym Makuch",
             "email": "",
             "role": "Developer"
-        },
+        }
     ],
     "license": "BSD-3-Clause",
     "require": {
